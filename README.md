@@ -2,7 +2,7 @@
 This reposirtory contains project file for the Project "Titanic Survival Exploration" as part of Udacity's Machine Learning Nanodegree.
 
 # Dataset
-The dataset can be found in titanic_data.csv. The data contains information about the titanic passengers. The goal is predict whether they survived or not based on the following features :
+The dataset can be found in titanic_data.csv. The data contains information about the titanic passengers. The target is to predict whether they survived or not based on the following features :
 1. PassengerId
 2. Survived
 3. Pclass
